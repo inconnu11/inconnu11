@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-<h2 align="center">👋 Hello! I'm Jie Wang.</h2>
+<h2 align="center">👋 Hello! I'm Jie Wang(王洁).</h2>
 
 <!--
 **inconnu11/inconnu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -15,8 +15,6 @@
 - 💬 Ask me about anything here.
 
 - :alarm_clock: IS20, 10.19
-
-
 
 
 
