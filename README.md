@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- :mortar_board: Master
+- :mortar_board: M.S. in Department of Cumputer Science and Technology, Tsinghua University
+- :briefcase: Research Intern @ Tencent AI Lab; About to join Huya.
 - 🔭 I’m currently working on disentangment in Voice Conversion(VC).
 - 🌱 I’m currently learning pytorch.
 - 👯 I’m looking to collaborate on ...
