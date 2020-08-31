@@ -5,17 +5,19 @@
 
 Here are some ideas to get you started:
 
-- :mortar_board: M.S. in Department of Cumputer Science and Technology, Tsinghua University
+- :sparkles: Passion on Voice Conversion(VC), Speech Synthesis(TTS). Supervisor @ Zhiyong Wu.
+- :mortar_board: 2nd-year M.S. in Department of Cumputer Science and Technology, Tsinghua University.
+- :battery: Willing for pursuing PhD. 40%(increasing hahaha)
 - :briefcase: Research Intern @ Tencent AI Lab; About to join Huya.
-- 🔭 I’m currently working on disentangment in Voice Conversion(VC).
-- 🌱 I’m currently learning pytorch.
-- 👯 I’m looking to collaborate on ...
+- 🔭 Working on disentangment in VC recently.
+- :satellite: Looking for Student Exchange Program or Placement.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything here.
+- 📫 How to reach me: jiewang.fisk@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Learning pytorch.
+- :alarm_clock: IS20
 
-<!--START_SECTION:inconnu11-->
-<!--END_SECTION:inconnu11-->
+
 
