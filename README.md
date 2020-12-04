@@ -14,7 +14,7 @@
 - 📫 How to reach me: jiewang.fisk@gmail.com
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock: ICME21, 11.30
+- :alarm_clock:  12.31
 
 
 
