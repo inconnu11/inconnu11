@@ -7,14 +7,17 @@
 
 - :mortar_board: 2nd-year M.S. in [Department of Cumputer Science and Technology](http://www.cs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn).
 - 🔭 Working on [disentangment in VC](https://arxiv.org/abs/2102.00184) recently.
-- :briefcase: Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index),Supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); Currently at [Huya](https://www.huya.com), Supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); About to join [MSRA](https://www.microsoft.com/en-us/research/)
+- :briefcase: 
+  Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index),Supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
+  [Huya](https://www.huya.com), Supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
+  About to join [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
 
 - :battery: Willing for pursuing PhD. 65%
 - :satellite: Looking for Student Exchange Program or Placement.
 - 📫 How to reach me: jiewang.fisk@gmail.com
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock:  3.31
+- :alarm_clock:  APSIPA 7.1 Japan; NCMMSC 6.10 suzhou
 
 
 
