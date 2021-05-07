@@ -13,7 +13,7 @@
 
 - :battery: Willing for pursuing PhD. 85%
 - :satellite: Looking for Student Exchange Program or Placement.
-- 📫 How to reach me: jiewang.fisk@gmail.com
+- 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
 - :alarm_clock:  APSIPA 7.1 Japan; NCMMSC 6.10 suzhou
