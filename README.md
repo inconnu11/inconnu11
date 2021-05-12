@@ -9,7 +9,7 @@
 - 🔭 Working on [disentangment in VC](https://arxiv.org/abs/2102.00184) recently.
 - :briefcase: 
   Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), [Huya](http://ir.huya.com), both were supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
-  About to join [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
+ Currently [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
 
 - :battery: Willing for pursuing PhD. 85%
 - :satellite: Looking for Student Exchange Program or Placement.
