@@ -11,7 +11,7 @@
   Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), [Huya](http://ir.huya.com), both were supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
  Currently [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
 
-- :battery: Willing for pursuing PhD. 85%
+- :battery: Willing for pursuing PhD. 65%
 - :satellite: Looking for Student Exchange Program or Placement.
 - 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
