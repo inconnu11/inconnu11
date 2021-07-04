@@ -16,7 +16,7 @@
 - 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock:  APSIPA 7.1 Japan; NCMMSC 6.10 suzhou
+- :alarm_clock:  ICLR 95 days left
 
 
 
