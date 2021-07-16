@@ -6,7 +6,9 @@
 
 
 - :mortar_board:  2nd-year M.S. in [Department of Cumputer Science and Technology](http://www.cs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn).
+- 
 - 🔭 Ongoing research on speech pretraining for style transfer in TTS recently. Research on [disentangment in VC](https://arxiv.org/abs/2102.00184) earlier.
+- 
 - :briefcase: 
   Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), [Huya](http://ir.huya.com), both were supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
  Currently [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank K. Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
