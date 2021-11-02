@@ -5,7 +5,7 @@
 **inconnu11/inconnu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- :mortar_board:  2nd-year M.S. in [Department of Cumputer Science and Technology](http://www.cs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn).
+- :mortar_board:  3nd-year M.S. in [Department of Cumputer Science and Technology](http://www.cs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn).
 - 
 - 🔭 Ongoing research on speech pretraining for style transfer in TTS recently. Research on [disentangment in VC](https://arxiv.org/abs/2102.00184) earlier.
 - 
