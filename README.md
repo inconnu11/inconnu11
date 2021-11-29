@@ -18,7 +18,7 @@
 - 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock:  ICLR 95 days left
+- :alarm_clock:  Graduation 30 weeks left (Nov. 29, 2020)
 
 
 
