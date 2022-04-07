@@ -18,7 +18,7 @@
 - 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock:  Graduation 30 weeks left (Nov. 29, 2020)
+- :alarm_clock:  Graduation 11 weeks left (Apr. 07, 2022)
 
 
 
