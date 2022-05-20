@@ -11,14 +11,14 @@
 - 
 - :briefcase: 
   Research Intern: [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index), [Huya](http://ir.huya.com), both were supervised by [Shiyin Kang](https://scholar.google.com/citations?user=mnCHk8EAAAAJ&hl=en&oi=ao); 
- Currently [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank K. Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
+ And [MSRA](https://www.microsoft.com/en-us/research/), Supervised by [Frank K. Soong](https://www.microsoft.com/en-us/research/people/frankkps/)
 
 <!-- - :battery: Willing for pursuing PhD. 65% -->
-- :satellite: Graduate at 2022 and looking for jobs.
+- :satellite: Graduate at 2022 and will join Xiaomi.
 - 📫 How to reach me: jiewang.fisk@gmail.com or twitter are probably fastest.
 - 💬 Ask me about anything [here](https://github.com/inconnu11/inconnu11/issues).
 
-- :alarm_clock:  Graduation 11 weeks left (07/04/2022 - 26/06/2022)
+- :alarm_clock:  Graduation 6 weeks left ( - 01/07/2022)
 
 
 
